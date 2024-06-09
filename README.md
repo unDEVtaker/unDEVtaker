@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [jonatanemanuelsilva6@gmail.com](mailto:jonatanemanuelsilva6@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Angular, TypeScript 
 
 ### Skills
 
