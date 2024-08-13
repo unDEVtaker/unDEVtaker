@@ -1,4 +1,4 @@
-Hi 👋 My name is Jonatan Silva
+Hi, I'm Jona! 👋
 ==============================
 
 Backend Developer
