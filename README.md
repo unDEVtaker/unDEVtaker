@@ -6,8 +6,8 @@ Backend Developer
 
 * 🌍  I'm based in Argentina
 * 💻  I'm currently working as a Back-End Developer.
-* 📚  I'm pursuing an Associate's Degree in Programming at the Universidad Tecnológica Nacional (UTN)
-* 🧠  I'm learning Angular, TypeScript
+* 📚  I'm pursuing an Associate's Degree in Programming at the Universidad Tecnológica Nacional (UTN) and studying Full Stack Web Development at Fundación FORMAR.
+* 🧠  I'm learning Angular, TypeScript.
 * ✉️  You can contact me at [jonatanemanuelsilva6@gmail.com](mailto:jonatanemanuelsilva6@gmail.com)
 ### Skills
 
