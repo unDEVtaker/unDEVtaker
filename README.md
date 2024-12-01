@@ -4,8 +4,7 @@ Hi, I'm Jona! 👋
 Backend Developer
 -----------------
 
-* 🇦🇷  Based in Argentina
-* 💻  Currently working as a Back-End Developer
+* 🌍  Based in Argentina
 * 📚  Pursuing an Associate's Degree in Programming at Universidad Tecnológica Nacional (UTN)
 * 📖  Studying Full Stack Web Development at Fundación FORMAR
 * 🧠  Learning Angular and TypeScript
